@@ -1,0 +1,3 @@
+/home/jean/Documents/CPP/words_to_number/build/CMakeFiles/words_to_number.dir
+/home/jean/Documents/CPP/words_to_number/build/CMakeFiles/edit_cache.dir
+/home/jean/Documents/CPP/words_to_number/build/CMakeFiles/rebuild_cache.dir
